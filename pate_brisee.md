@@ -1,12 +1,15 @@
-pâte brisée
+# Pâte brisée
 
-250 g farine
-0,8 dl huile
-0,8 dl d'eau
-1 pincée de sel
+## Ingrédients
 
-Mettre le tout dans 1 bol.
-Ne pas pétrir.
-Ajouter un peu de farine si trop humide, un peu d huile ou eau si trop sec.
++ 250 g farine
++ 0,8 dl huile
++ 0,8 dl d'eau
++ 1 pincée de sel
 
-Faire une boule et étaler.
+## Marche à suivre
+
+1. Mettre le tout dans 1 bol.
+2. Ne pas pétrir.
+3. Ajouter un peu de farine si trop humide, un peu d huile ou eau si trop sec.
+4. Faire une boule et étaler.
